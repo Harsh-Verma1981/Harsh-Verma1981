@@ -1,12 +1,3 @@
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   ▄▀█ █▄ █ ▄▀█ █▄ █ █▀▄   █ █ █▀▀ █▀█ █▀▄▀█ ▄▀█                               ║
-║   █▀█ █ ▀█ █▀█ █ ▀█ █▄▀   ▀▄▀ ██▄ █▀▄ █ ▀ █ █▀█                               ║
-║                                                                               ║
-║   Cross-Platform Engineer • Kotlin Enthusiast • Production-Focused            ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-
 # 💫 About Me:
 An Aspiring Software Development Engineer who is eager to learn, grow, and build impactful solutions. <br>I enjoy solving problems, understanding how systems work, and continuously improving my technical skills. <br>I believe in learning by building and contributing, and I am always motivated to collaborate with others, share knowledge, and <br>contribute positively to the developer community.
 
