@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey Everyone 👋</h1>
 
 ###
 
-<p align="left">I'm Harsh Verma  An Aspiring Software Engineer</p>
+<p align="left">I'm Harsh Verma a Full Stack Developer with expertise on MERN stack currently building TaskFlow a smart Event alarm which notifies user's schedule and task.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning java and practicing DSA to improve myself.<br>🎯 Goals: Wants to work in a Big Tech Company and contribute in their projects.<br>🎲 Fun fact: Buy me a coffee and we will talk about it later 😅.</p>
+<p align="left">📚 I'm currently studying DSA to improve my problem solving skills.<br>🎯 Goals: Wants to work in a Big Tech Company and contribute in their projects.<br>🎲 Fun fact: Buy me a coffee and we will talk about it later 😅.</p>
 
 ###
 
